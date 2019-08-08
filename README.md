@@ -4,6 +4,6 @@ for image captioning. In the encoding stage, we utilize the salient words derive
 retrieval to improve the accuracy of attributes. In the decoding stage, we explore two ways to re-rank
 the sentences generated through beam search with the guidance of semantics acquired through a
 modified cross-modal retrieval method<br>
-![](https://github.com/CrazyMoonXD/PR-Letter/blob/master/overall_structure.png)
+![](https://github.com/CrazyMoonXD/PR-Letter/blob/master/overall_structure.png)<br>
 MIL (Multi-Instance Learning) feature:<br> 
 [mil_feature_train](https://pan.baidu.com/s/1xozAjaZsWOBAvLHyO7EKpg) and [mil_feature_val](https://pan.baidu.com/s/1-hnTSEFn0_ejgJRiNFZkRg)
