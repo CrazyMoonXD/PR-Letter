@@ -5,7 +5,7 @@ retrieval to improve the accuracy of attributes. In the decoding stage, we explo
 the sentences generated through beam search with the guidance of semantics acquired through a
 modified cross-modal retrieval method<br>
 ![](https://github.com/CrazyMoonXD/PR-Letter/blob/master/overall_structure.png)<br>
-MIL (Multi-Instance Learning) feature: 
-[mil_feature_train](https://pan.baidu.com/s/1xozAjaZsWOBAvLHyO7EKpg) and [mil_feature_val](https://pan.baidu.com/s/1-hnTSEFn0_ejgJRiNFZkRg)
-Pretrained models:<br>
-salient word(0.625) + mil feature(0.375):[](https://pan.baidu.com/s/1mcELTTdFDbeEQoB61psfwA)
+## MIL (Multi-Instance Learning) feature: 
+[mil_feature_train](https://pan.baidu.com/s/1xozAjaZsWOBAvLHyO7EKpg) and [mil_feature_val](https://pan.baidu.com/s/1-hnTSEFn0_ejgJRiNFZkRg)<br>
+## Pretrained models:<br>
+salient word(0.625) + mil feature(0.375): [https://pan.baidu.com/s/1mcELTTdFDbeEQoB61psfwA](https://pan.baidu.com/s/1mcELTTdFDbeEQoB61psfwA)
